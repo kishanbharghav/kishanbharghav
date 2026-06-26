@@ -82,7 +82,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=kishanbharghav&theme=tokyonight&hide_border=true)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=kishanbharghav&theme=tokyonight&no-frame=true&column=7&margin-w=10)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kishanbharghav&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
